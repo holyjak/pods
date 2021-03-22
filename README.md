@@ -48,7 +48,7 @@ _below_ in Polish and Russian. In Romanian it means _bridge_
 ## Available pods
 
 For a list of available pods, take a look
-[here](https://github.com/babashka/babashka/blob/master/doc/projects.md#pods).
+[here](https://github.com/babashka/babashka/blob/master/doc/projects.md#pods) and into the [pod-registry](https://github.com/babashka/pod-registry).
 
 ## Status
 
